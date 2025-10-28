@@ -1,0 +1,6 @@
+Zone,What Happens
+Entrance,Wall screen: “Welcome to The Merge” + live signals
+Counter,Barista + payout terminal
+Kiosk,"Tablet — scan QR, see your signals"
+Seating,Work tables with power + WiFi
+Back Wall,“Merge Wall” — leaderboard of top earners
